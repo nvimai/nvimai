@@ -1,13 +1,11 @@
 ## Hey there 👋🏽, [nvimai](https://nvimai.com/) here... welcome to my profile page!
 
-<br />
-Hi, I'm Nvi, a Full Stack JavaScript Developer from Canada. Lately, I'm project leader of [Expogain Analytics](https://analytics.expogain.com) and contract software engineer at [AGEMA.Work](https://agema.work).
-<br />
+Hi, I'm Nvi, a Full Stack JavaScript Developer from Canada. Lately, I'm project leader at [Expogain Analytics](https://analytics.expogain.com) and contract software engineer at [AGEMA.Work](https://agema.work).
 <br />
 
 ## A little about me:
 
-- 👨🏽‍💻 I’m currently working on [Expogain Analytics](https://analytics.expogain.com) and [AGEMA Work app](https://agema.work)
+- 👨🏽‍💻 I’m working on [Expogain Analytics](https://analytics.expogain.com) and [AGEMA Work app](https://agema.work)
 - 🌱 I’m currently learning Java & Python Development
 - 💬 Have a question? Ask me anytime through [Nvi's LinkedIn](https://www.linkedin.com/in/nvimai/)
 - 📫 How to reach me: [Nvi's Email](mailto:contact@nvimai.com)
@@ -34,7 +32,7 @@ Hi, I'm Nvi, a Full Stack JavaScript Developer from Canada. Lately, I'm project 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/digitalocean.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg"></code>
 
-## Socials
+## Socials:
 
 <a href="https://www.linkedin.com/in/nvimai/">
   <img alt="Nvi Mai LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -45,8 +43,6 @@ Hi, I'm Nvi, a Full Stack JavaScript Developer from Canada. Lately, I'm project 
 <a href="https://www.instagram.com/nvimai/">
   <img alt="Nvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-<br />
 
 <br />
 
