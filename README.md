@@ -7,7 +7,7 @@ Hi, I'm Nvi, a Full Stack JavaScript Developer from Canada. Lately, I'm project 
 
 - 👨🏽‍💻 I’m working on [Expogain Analytics](https://analytics.expogain.com) and [AGEMA Work app](https://agema.work)
 - 🌱 I’m currently learning Java & Python Development
-- 💬 Have a question? Ask me anytime through [Nvi's LinkedIn](https://www.linkedin.com/in/nvimai/)
+- 💬 Have a question? Ask me anytime through [Nvi's LinkedIn](https://www.linkedin.com/in/nhatmai/)
 - 📫 How to reach me: [Nvi's Email](mailto:contact@nvimai.com)
 
 ## Languages and Tools:
