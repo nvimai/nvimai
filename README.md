@@ -1,12 +1,12 @@
 ## Hey there 👋🏽, [nvimai](https://nvimai.com/) here... welcome to my profile page!
 
-Hi, I'm Nvi, a Full Stack JavaScript Developer from Canada. Lately, I'm project leader at [Expogain Analytics](https://analytics.expogain.com) and contract software engineer at [AGEMA.Work](https://agema.work).
+Hi, I'm Nvi, a Full Stack JavaScript Developer from Canada. Currently, I'm working at [Symcor](https://symcor.ca).
 <br />
 
 ## A little about me:
 
-- 👨🏽‍💻 I’m working on [Expogain Analytics](https://analytics.expogain.com) and [AGEMA Work app](https://agema.work)
-- 🌱 I’m currently learning Java & Python Development
+- 👨🏽‍💻 I’m working on [Open Banking](https://www.symcor.ca/solution/cor.connect-open-banking-solutions) at Symcor Inc.
+- 🌱 I’m currently learning Azure Cloud
 - 💬 Have a question? Ask me anytime through [Nvi's LinkedIn](https://www.linkedin.com/in/nhatmai/)
 - 📫 How to reach me: [Nvi's Email](mailto:contact@nvimai.com)
 
